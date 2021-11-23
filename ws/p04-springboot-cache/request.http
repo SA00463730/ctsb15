@@ -1,0 +1,17 @@
+GET http://localhost:8080/v1/api/movies
+###
+
+GET http://localhost:8080/v1/api/movies/1
+###
+
+POST http://localhost:8080/v1/api/movies
+content-type: application/json
+
+{
+    "title": "This is animated cartoon movie",
+    "director": "Emily",
+    "rating": 4.1
+}
+###
+
+

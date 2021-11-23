@@ -1,0 +1,17 @@
+GET http://localhost:8080/user/greet
+###
+GET http://localhost:8080/user/greet/arun
+###
+GET http://localhost:8080/user/greet/mark
+###
+GET http://localhost:8080/user/friends
+
+
+### 500
+GET http://localhost:8080/user/first-friends
+
+### 405
+GET http://localhost:8080/user/create
+
+### 404
+GET http://localhost:8080/user/demo/demo

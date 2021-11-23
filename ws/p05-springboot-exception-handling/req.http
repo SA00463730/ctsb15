@@ -1,0 +1,6 @@
+GET http://localhost:8080/v1/api/movies/1
+###
+GET http://localhost:8080/v1/api/movies/2
+###
+GET http://localhost:8080/v1/api/movies/23
+###

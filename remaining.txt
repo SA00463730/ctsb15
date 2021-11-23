@@ -1,41 +1,15 @@
 Batch - 15
 
-
-
-Features of Spring Boot and benefits 
-Setting up a Spring Boot Workspace 
-Spring Boot Dependency Management 
-Introduction to RESTful Web Services (JAX-RS) 
-Architecture 
-Principles of REST 
-Using HTTP GET, PUT, POST, DELETE 
-Using @Service Annotation Class for Business Layer 
-HTTP Caching 
-Retrieving LIST in REST 
-Writing a RESTful Web Services with JSON
-Working with Spring Boot Starters 
-Overriding auto-configured beans 
-Reducing code with custom auto configurations
-- @EnableAutoConfiguration 
-- writing own custom auto configuration
-
-Customizing Error Pages 
-Spring Data  
-Spring Data Schema 
-Spring Data Services 
-Errors and Exception Handling 
-Spring Test 
 Writing a REST Client
 
-Using Custom Response 
-Modifying Response Formats 
+
+
 Spring Security to configure Basic Authentication and JWT 
-Working with swagger and Postman Utility 
 Implementation: Microservices Concept 
-12 Factor Principles 
-Standard Project Structure for Spring Boot Projects 
+
 Handle Circular dependencies 
 Dependency Injection 
 Environment based setting
+12 Factor Principles 
 
 
