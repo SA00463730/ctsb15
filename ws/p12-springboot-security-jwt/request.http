@@ -1,0 +1,17 @@
+GET http://localhost:8080/user/greet 
+
+###
+
+GET http://localhost:8080/user/greet/iiht
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkZW1vIiwibW9iaWxlIjoiaXBob25lIiwibGFwdG9wIjoiYXBwbGUiLCJleHAiOjE2Mzc3NDk5MDUsImlhdCI6MTYzNzczMTkwNX0.A9My43BnT7XmfvgpAkLGEyADjv96SjUQusgAAlyHO9ps5sranWOJk3nqNQGpIqiu0gZzHmdRd46YecoWvA_P_w
+
+###
+
+POST http://localhost:8080/authenticate
+content-type: application/json
+
+{
+    "username": "demo",
+    "password": "demo@123"
+}
+
