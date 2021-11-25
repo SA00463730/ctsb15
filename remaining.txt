@@ -1,15 +1,6 @@
 Batch - 15
 
-Writing a REST Client
 
-
-
-Spring Security to configure Basic Authentication and JWT 
-Implementation: Microservices Concept 
-
-Handle Circular dependencies 
-Dependency Injection 
-Environment based setting
-12 Factor Principles 
+Kafka
 
 
