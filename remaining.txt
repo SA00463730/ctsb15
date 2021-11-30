@@ -1,6 +1,29 @@
 Batch - 15
 
 
-Kafka
+CLI Commands 
+
+Routing
+Lazy Loading 
+
+Directives 
+Pipes 
+Forms 
+Dependency Injection 
+Module
+
+Breakpoints 
+Examine variables 
+Browsers' Debugging Tools 
+Pause Code with Breakpoints 
+Debug Background Service
+
+Logging 
+Exception Handling and Logging
+
+Using Sass     
+
+State Management   
 
 
+Ajax-Http
